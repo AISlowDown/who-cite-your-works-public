@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "academy": "中国科学院",
+      "indexUrl": "https://casad.cas.cn/yszx/lcmd/",
+      "coverage": "2003-2023历次当选名单页面；2003-2019为HTML表格，2023官方图片已结构化，2021图片源失效但由官方初步候选人表交叉补全",
+      "officialDomain": "casad.cas.cn"
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2023,
+      "url": "https://casad.cas.cn/yszx/lcmd/202504/t20250402_5061082.html",
+      "sourceType": "official-election-image-records",
+      "coverage": "2023年新当选中国科学院院士官方图片名单中的工作单位；经系统文字识别后按最终名单姓名校对",
+      "officialDomain": "casad.cas.cn",
+      "records": [
+        { "name": "包刚", "affiliation": "浙江大学、浙江工业大学" },
+        { "name": "曹臻", "affiliation": "中国科学院高能物理研究所" },
+        { "name": "丁洪", "affiliation": "上海交通大学" },
+        { "name": "段慧玲", "affiliation": "北京大学" },
+        { "name": "段路明", "affiliation": "清华大学" },
+        { "name": "金奎娟", "affiliation": "中国科学院物理研究所" },
+        { "name": "马琰铭", "affiliation": "吉林大学" },
+        { "name": "沈维孝", "affiliation": "复旦大学" },
+        { "name": "田野", "affiliation": "中国科学院数学与系统科学研究院" },
+        { "name": "赵刚", "affiliation": "中国科学院国家天文台" },
+        { "name": "常俊标", "affiliation": "郑州大学" },
+        { "name": "陈春英", "affiliation": "国家纳米科学中心" },
+        { "name": "彭慧胜", "affiliation": "复旦大学" },
+        { "name": "卿凤翎", "affiliation": "中国科学院上海有机化学研究所" },
+        { "name": "唐智勇", "affiliation": "国家纳米科学中心" },
+        { "name": "熊仁根", "affiliation": "东南大学" },
+        { "name": "叶国安", "affiliation": "中国原子能科学研究院" },
+        { "name": "游书力", "affiliation": "中国科学院上海有机化学研究所" },
+        { "name": "郑南峰", "affiliation": "厦门大学" },
+        { "name": "朱为宏", "affiliation": "华东理工大学" },
+        { "name": "高绍荣", "affiliation": "同济大学" },
+        { "name": "何祖华", "affiliation": "中国科学院分子植物科学卓越创新中心" },
+        { "name": "黄三文", "affiliation": "中国热带农业科学院、中国农业科学院农业基因组研究所" },
+        { "name": "卢煜明", "affiliation": "香港中文大学" },
+        { "name": "马骏", "affiliation": "中山大学肿瘤防治中心" },
+        { "name": "时松海", "affiliation": "清华大学" },
+        { "name": "孙航", "affiliation": "中国科学院昆明植物研究所" },
+        { "name": "王建安", "affiliation": "浙江大学" },
+        { "name": "颜宁", "affiliation": "清华大学、深圳医学科学院" },
+        { "name": "张宏", "affiliation": "中国科学院生物物理研究所" },
+        { "name": "张泽民", "affiliation": "北京大学" },
+        { "name": "曹晋滨", "affiliation": "北京航空航天大学" },
+        { "name": "方小敏", "affiliation": "中国科学院青藏高原研究所" },
+        { "name": "何宏平", "affiliation": "中国科学院广州地球化学研究所" },
+        { "name": "翦知湣", "affiliation": "同济大学" },
+        { "name": "倪四道", "affiliation": "中国科学院精密测量科学与技术创新研究院" },
+        { "name": "徐星", "affiliation": "中国科学院古脊椎动物与古人类研究所" },
+        { "name": "张荣桥", "affiliation": "探月与航天工程中心" },
+        { "name": "张水昌", "affiliation": "中国石油天然气股份有限公司勘探开发研究院" },
+        { "name": "陈小前", "affiliation": "中国人民解放军军事科学院" },
+        { "name": "郭雷", "affiliation": "北京航空航天大学" },
+        { "name": "郭世泽", "affiliation": "中国人民解放军信息技术安全研究中心" },
+        { "name": "胡事民", "affiliation": "清华大学" },
+        { "name": "孙胜利", "affiliation": "中国科学院上海技术物理研究所" },
+        { "name": "尤肖虎", "affiliation": "东南大学" },
+        { "name": "张荣", "affiliation": "厦门大学" },
+        { "name": "郑海荣", "affiliation": "中国科学院深圳先进技术研究院" },
+        { "name": "陈立东", "affiliation": "中国科学院上海硅酸盐研究所" },
+        { "name": "郭旭", "affiliation": "大连理工大学" },
+        { "name": "姜澜", "affiliation": "北京理工大学" },
+        { "name": "蒋成保", "affiliation": "北京航空航天大学" },
+        { "name": "李殿中", "affiliation": "中国科学院金属研究所" },
+        { "name": "李惠", "affiliation": "哈尔滨工业大学" },
+        { "name": "李路明", "affiliation": "清华大学" },
+        { "name": "刘胜", "affiliation": "武汉大学" },
+        { "name": "陶智", "affiliation": "北京航空航天大学" },
+        { "name": "辛万青", "affiliation": "中国航天科技集团有限公司第一研究院" },
+        { "name": "张荻", "affiliation": "上海交通大学" },
+        { "name": "朱俊强", "affiliation": "中国科学院工程热物理研究所" }
+      ]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2021,
+      "url": "https://www.cas.cn/tz/202108/t20210801_4800672.shtml",
+      "sourceType": "candidate-list-html",
+      "coverage": "2021年中国科学院院士增选初步候选人名单中的工作单位；仅与最终当选名单交叉后写入",
+      "officialDomain": "cas.cn"
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://yszx.casad.cas.cn/tzgg/202508/P020250905666240614509.pdf",
+      "sourceType": "candidate-public-locations-pdf",
+      "coverage": "2025年有效候选人材料公示地点汇总表中的工作单位；仅与最终当选名单交叉后写入",
+      "officialDomain": "casad.cas.cn"
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://www.ioa.cas.cn/zyxw/202511/t20251121_8015208.html",
+      "sourceType": "official-profile-record",
+      "coverage": "王海斌当前机构（中国科学院声学研究所官方当选报道）",
+      "officialDomain": "ioa.cas.cn",
+      "records": [{ "name": "王海斌", "affiliation": "中国科学院声学研究所" }]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://aircas.cas.cn/sourcedb/cn/expert/yjy/201811/t20181106_5165757.html",
+      "sourceType": "official-profile-record",
+      "coverage": "邓云凯当前机构（中国科学院空天信息创新研究院官方个人页）",
+      "officialDomain": "aircas.cas.cn",
+      "records": [{ "name": "邓云凯", "affiliation": "中国科学院空天信息创新研究院" }]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://www.nwpu.edu.cn/info/6308/77328.htm",
+      "sourceType": "official-profile-record",
+      "coverage": "张艳宁当前机构（西北工业大学现任领导页）",
+      "officialDomain": "nwpu.edu.cn",
+      "records": [{ "name": "张艳宁", "affiliation": "西北工业大学" }]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://www.mod.gov.cn/gfbw/gfjy_index/xjdx/4922633.html",
+      "sourceType": "official-profile-record",
+      "coverage": "何元智机构（国防部转载解放军报人物报道）",
+      "officialDomain": "mod.gov.cn",
+      "records": [{ "name": "何元智", "affiliation": "军事科学院系统工程研究院" }]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://imr.cas.cn/xwzx/zhxw/202411/t20241126_7446647.html",
+      "sourceType": "official-profile-record",
+      "coverage": "刘小勇机构（中国科学院金属研究所会议报道）",
+      "officialDomain": "imr.cas.cn",
+      "records": [{ "name": "刘小勇", "affiliation": "中国航天科工集团三院三十一所" }]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://www.nue.edu.cn/article/2009124766329344000",
+      "sourceType": "official-profile-record",
+      "coverage": "鲁军勇当前机构（海军工程大学官方当选报道）",
+      "officialDomain": "nue.edu.cn",
+      "records": [{ "name": "鲁军勇", "affiliation": "海军工程大学" }]
+    },
+    {
+      "academy": "中国科学院",
+      "electionYear": 2025,
+      "url": "https://zs.njust.edu.cn/21/2a/c3550a336170/page.htm",
+      "sourceType": "official-profile-record",
+      "coverage": "钱林方当前机构（南京理工大学官方科研报道）",
+      "officialDomain": "njust.edu.cn",
+      "records": [{ "name": "钱林方", "affiliation": "南京理工大学" }]
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2001,
+      "url": "https://www.cae.cn/cae/html/main/col288/2012-02/28/20120228202350960288206_1.html",
+      "coverage": "2001当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2003,
+      "url": "https://www.cae.cn/cae/html/main/col287/2012-02/28/20120228202350992488019_1.html",
+      "coverage": "2003当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2005,
+      "url": "https://www.cae.cn/cae/html/main/col286/2012-02/28/20120228202351023971489_1.html",
+      "coverage": "2005当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2007,
+      "url": "https://www.cae.cn/cae/html/main/col285/2012-02/28/20120228202351054474910_1.html",
+      "coverage": "2007当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2009,
+      "url": "https://www.cae.cn/cae/html/main/col284/2012-02/27/20120227140304000962108_1.html",
+      "coverage": "2009当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2011,
+      "url": "https://www.cae.cn/cae/html/main/col283/2012-02/27/20120227140304047141856_1.html",
+      "coverage": "2011当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2013,
+      "url": "https://www.cae.cn/cae/html/main/col282/2013-12/18/20131218172355664280112_1.html",
+      "coverage": "2013当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2015,
+      "url": "https://www.cae.cn/cae/html/main/col281/2015-12/07/20151207084823921333024_1.html",
+      "coverage": "2015当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2017,
+      "url": "https://www.cae.cn/cae/html/main/col280/2017-11/27/20171127085337936142127_1.html",
+      "coverage": "2017当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2019,
+      "url": "https://www.cae.cn/cae/html/main/col1/2019-11/22/20191122104249761699527_1.html",
+      "coverage": "2019当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2021,
+      "url": "https://www.cae.cn/cae/html/main/col1/2021-11/18/20211118075007595415390_1.html",
+      "coverage": "2021当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2023,
+      "url": "https://www.cae.cn/cae/html/main/col1/2023-11/22/20231122170001871458514_1.html",
+      "coverage": "2023当选院士工作单位",
+      "officialDomain": "cae.cn"
+    },
+    {
+      "academy": "中国工程院",
+      "electionYear": 2025,
+      "url": "https://www.cae.cn/cae/html/main/col245/2025-11/21/20251121085534729719452_1.html",
+      "coverage": "2025当选院士工作单位",
+      "officialDomain": "cae.cn"
+    }
+  ]
+}

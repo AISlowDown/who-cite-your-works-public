@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "organizationId": "aaas",
+  "sourceUrl": "https://www.aaas.org/fellows/listing",
+  "verifiedOn": "2026-09-02",
+  "annualProgramUrl": "https://www.aaas.org/sites/default/files/2021-02/2020_Fellows%20Program_Final-DIGITAL_0.pdf",
+  "coverageNote": "The official annual-program format is supported. Indexed legacy PDF URLs currently return 403/404 from the origin, so unavailable classes are documented but not reconstructed from third-party lists.",
+  "accessStatus": "legacy-official-documents-unavailable"
+}

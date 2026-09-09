@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "organizationId": "ieee",
+  "sourceUrl": "https://www.ieee.org/membership/fellows/fellows-directory.html",
+  "verifiedOn": "2026-09-02",
+  "coverageNote": "The official directory is privacy-controlled/public-opt-in and its service endpoint rejects this automated public session. Annual official records remain eligible for incremental ingestion.",
+  "accessStatus": "public-directory-access-limited"
+}

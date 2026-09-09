@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "organizationId": "aiche",
+  "sourceUrl": "https://www.aiche.org/sites/default/files/docs/pages/fellows_list_01_09_18.pdf",
+  "verifiedOn": "2026-09-02",
+  "coverageNote": "AIChE identifies this as the full historical list as of 2018-01-09. The live origin currently returns a Cloudflare HTML challenge instead of the PDF, so the cached seed is retained and the source is not falsely marked as ingested.",
+  "post2018SourceUrl": "https://www.aiche.org/community/sites/fellows",
+  "accessStatus": "official-pdf-origin-blocked"
+}

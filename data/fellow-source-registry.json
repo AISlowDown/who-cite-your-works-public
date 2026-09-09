@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "updatedOn": "2026-09-05",
+  "sources": [
+    {
+      "organizationId": "royal-society",
+      "organization": "Royal Society",
+      "organizationZh": "英国皇家学会",
+      "officialDomains": [
+        "royalsociety.org"
+      ],
+      "acceptedGrades": [
+        "Fellow",
+        "Foreign Member",
+        "Honorary Fellow",
+        "Royal Fellow",
+        "Statute 12"
+      ],
+      "sourceMode": "official-directory",
+      "coverage": "official-current-directory",
+      "coverageKind": "official-directory-complete",
+      "expectedMinimum": 1500,
+      "publicLimitations": null,
+      "sourceUrls": [
+        "https://royalsociety.org/fellows-directory/"
+      ],
+      "adapter": "royal-society",
+      "minimumSafeRowCount": 1500,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:20:01.068Z",
+      "lastSuccessOn": "2026-09-02T03:20:01.068Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1921,
+      "lastError": null
+    },
+    {
+      "organizationId": "ieee",
+      "organization": "IEEE",
+      "organizationZh": "电气电子工程师学会",
+      "officialDomains": [
+        "ieee.org"
+      ],
+      "acceptedGrades": [
+        "IEEE Fellow"
+      ],
+      "sourceMode": "official-public-directory-or-annual",
+      "coverage": "official-public-directory-or-annual",
+      "coverageKind": "official-public-partial",
+      "expectedMinimum": 1,
+      "publicLimitations": "IEEE directory visibility and access are subject to member privacy and public-access controls",
+      "sourceUrls": [
+        "https://www.ieee.org/membership/fellows/fellows-directory.html"
+      ],
+      "adapter": "ieee",
+      "minimumSafeRowCount": 1,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:21:01.253Z",
+      "lastSuccessOn": "2026-09-02T03:21:01.253Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1,
+      "lastError": null
+    },
+    {
+      "organizationId": "aaas",
+      "organization": "American Association for the Advancement of Science",
+      "organizationZh": "美国科学促进会",
+      "officialDomains": [
+        "aaas.org"
+      ],
+      "acceptedGrades": [
+        "AAAS Fellow"
+      ],
+      "sourceMode": "official-current-or-annual",
+      "coverage": "official-current-or-annual",
+      "coverageKind": "official-annual-partial",
+      "expectedMinimum": 1,
+      "publicLimitations": "Only official annual or current PDF records actually ingested are covered",
+      "sourceUrls": [
+        "https://www.aaas.org/fellows/listing",
+        "https://www.aaas.org/sites/default/files/AAAS-Fellows.pdf"
+      ],
+      "adapter": "aaas",
+      "minimumSafeRowCount": 1,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:21:01.254Z",
+      "lastSuccessOn": "2026-09-02T03:21:01.254Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1,
+      "lastError": null
+    },
+    {
+      "organizationId": "iwa",
+      "organization": "International Water Association",
+      "organizationZh": "国际水协会",
+      "officialDomains": [
+        "iwa-network.org"
+      ],
+      "acceptedGrades": [
+        "IWA Fellow",
+        "IWA Distinguished Fellow"
+      ],
+      "sourceMode": "official-incremental",
+      "coverage": "official-incremental",
+      "coverageKind": "official-annual-partial",
+      "expectedMinimum": 1,
+      "publicLimitations": "IWA publishes selected current and annual cohorts rather than a historical public directory",
+      "sourceUrls": [
+        "https://www.iwa-network.org/iwa-fellows"
+      ],
+      "adapter": "iwa",
+      "minimumSafeRowCount": 1,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:21:01.256Z",
+      "lastSuccessOn": "2026-09-02T03:21:01.256Z",
+      "lastStatus": "success",
+      "lastRecordCount": 35,
+      "lastError": null
+    },
+    {
+      "organizationId": "asce",
+      "organization": "American Society of Civil Engineers",
+      "organizationZh": "美国土木工程师学会",
+      "officialDomains": [
+        "asce.org"
+      ],
+      "acceptedGrades": [
+        "ASCE Fellow",
+        "ASCE Distinguished Member"
+      ],
+      "sourceMode": "official-incremental-or-annual",
+      "coverage": "official-incremental-or-annual",
+      "coverageKind": "official-public-partial",
+      "expectedMinimum": 1,
+      "publicLimitations": "The ASCE Official Register reports aggregate Fellow counts but does not publish a complete name roster",
+      "sourceUrls": [
+        "https://www.asce.org/membership/join/fellow",
+        "https://www.asce.org/about-asce/official-register"
+      ],
+      "adapter": "asce",
+      "minimumSafeRowCount": 1,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:21:02.852Z",
+      "lastSuccessOn": "2026-09-02T03:21:02.852Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1,
+      "lastError": null
+    },
+    {
+      "organizationId": "aiche",
+      "organization": "American Institute of Chemical Engineers",
+      "organizationZh": "美国化学工程师学会",
+      "officialDomains": [
+        "aiche.org"
+      ],
+      "acceptedGrades": [
+        "AIChE Fellow"
+      ],
+      "sourceMode": "official-historical-and-incremental",
+      "coverage": "official-historical-through-2018-plus-incremental",
+      "coverageKind": "official-historical-plus-annual-partial",
+      "expectedMinimum": 1,
+      "publicLimitations": "The official 2018 historical list is complete as of its date; later coverage depends on public recognition records",
+      "sourceUrls": [
+        "https://www.aiche.org/community/sites/fellows",
+        "https://www.aiche.org/sites/default/files/docs/pages/fellows_list_01_09_18.pdf"
+      ],
+      "adapter": "aiche",
+      "minimumSafeRowCount": 1,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:21:04.382Z",
+      "lastSuccessOn": "2026-09-02T03:21:04.382Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1,
+      "lastError": null
+    },
+    {
+      "organizationId": "acs",
+      "organization": "American Chemical Society",
+      "organizationZh": "美国化学会",
+      "officialDomains": [
+        "acs.org"
+      ],
+      "acceptedGrades": [
+        "ACS Fellow"
+      ],
+      "sourceMode": "official-annual",
+      "coverage": "official-annual-2009-present",
+      "coverageKind": "official-annual-complete",
+      "expectedMinimum": 1000,
+      "publicLimitations": null,
+      "sourceUrls": [
+        "https://www.acs.org/funding/awards/acs-fellows/fellows.html",
+        "https://www.acs.org/content/dam/acsorg/funding/fellows/fellows-website/acs-fellows-list.xlsx"
+      ],
+      "adapter": "acs",
+      "minimumSafeRowCount": 1,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T03:25:56.905Z",
+      "lastSuccessOn": "2026-09-02T03:25:56.905Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1442,
+      "lastError": null
+    },
+    {
+      "organizationId": "rsc",
+      "organization": "Royal Society of Chemistry",
+      "organizationZh": "英国皇家化学会",
+      "officialDomains": [
+        "rsc.org"
+      ],
+      "acceptedGrades": [
+        "FRSC",
+        "Honorary Fellow (HonFRSC)"
+      ],
+      "sourceMode": "official-incremental",
+      "coverage": "official-incremental",
+      "coverageKind": "official-public-partial",
+      "expectedMinimum": 119,
+      "publicLimitations": "RSC does not publish a complete public directory of ordinary FRSC members; the current Honorary Fellow name list is cached separately and its stated total differs from its visible named rows by one",
+      "sourceUrls": [
+        "https://www.rsc.org/membership/membership-categories/fellow",
+        "https://www.rsc.org/standards-and-recognition/honorary-fellows"
+      ],
+      "adapter": "rsc",
+      "minimumSafeRowCount": 119,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-02T09:22:02.407Z",
+      "lastSuccessOn": "2026-09-02T09:22:02.407Z",
+      "lastStatus": "success",
+      "lastRecordCount": 120,
+      "lastError": null
+    },
+    {
+      "organizationId": "us-nae",
+      "organization": "National Academy of Engineering",
+      "organizationZh": "美国国家工程院",
+      "officialDomains": [
+        "nae.edu"
+      ],
+      "acceptedGrades": [
+        "Member",
+        "International Member",
+        "Emeritus"
+      ],
+      "allowPlainMemberGrade": true,
+      "sourceMode": "official-directory",
+      "coverage": "official-current-directory",
+      "coverageKind": "official-directory-complete",
+      "expectedMinimum": 2700,
+      "publicLimitations": "The official directory uses stateful ASP.NET pagination; a refresh is accepted only when the complete public count is recovered",
+      "sourceUrls": [
+        "https://www.nae.edu/20412/MemberDirectory"
+      ],
+      "adapter": "us-nae",
+      "minimumSafeRowCount": 2700,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-05T11:04:35.314Z",
+      "lastSuccessOn": "2026-09-05T11:04:35.314Z",
+      "lastStatus": "success",
+      "lastRecordCount": 2841,
+      "lastError": null
+    },
+    {
+      "organizationId": "raeng",
+      "organization": "Royal Academy of Engineering",
+      "organizationZh": "英国皇家工程院",
+      "officialDomains": [
+        "raeng.org.uk"
+      ],
+      "acceptedGrades": [
+        "Fellow (FREng)",
+        "Honorary Fellow (HonFREng)"
+      ],
+      "sourceMode": "official-directory",
+      "coverage": "official-current-directory",
+      "coverageKind": "official-directory-complete",
+      "expectedMinimum": 1600,
+      "publicLimitations": "The public results list names, fellowship postnominals, election years, and expertise but not affiliations",
+      "sourceUrls": [
+        "https://raeng.org.uk/fellows-directory/"
+      ],
+      "adapter": "raeng",
+      "minimumSafeRowCount": 1600,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-05T11:15:17.404Z",
+      "lastSuccessOn": "2026-09-05T11:15:17.404Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1725,
+      "lastError": null
+    },
+    {
+      "organizationId": "cae-canada",
+      "organization": "Canadian Academy of Engineering",
+      "organizationZh": "加拿大工程院",
+      "officialDomains": [
+        "cae-acg.ca",
+        "widgets.cae-acg.ca"
+      ],
+      "acceptedGrades": [
+        "Fellow",
+        "Lifetime Fellow",
+        "Emeritus",
+        "Lifetime Emeritus",
+        "Lifetime International Fellow",
+        "Emeritus (Waived-Illness)",
+        "90+",
+        "Fellow (Waived-Illness)",
+        "Honorary",
+        "International Fellow"
+      ],
+      "sourceMode": "official-directory",
+      "coverage": "official-current-directory",
+      "coverageKind": "official-directory-complete",
+      "expectedMinimum": 900,
+      "publicLimitations": "Affiliation is stored only when the official directory exposes an employer field",
+      "sourceUrls": [
+        "https://cae-acg.ca/fellows/directory-of-fellows/"
+      ],
+      "adapter": "cae-canada",
+      "minimumSafeRowCount": 900,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-05T11:06:33.901Z",
+      "lastSuccessOn": "2026-09-05T11:06:33.901Z",
+      "lastStatus": "success",
+      "lastRecordCount": 1010,
+      "lastError": null
+    },
+    {
+      "organizationId": "atse",
+      "organization": "Australian Academy of Technological Sciences and Engineering",
+      "organizationZh": "澳大利亚技术科学与工程院",
+      "officialDomains": [
+        "atse.org.au"
+      ],
+      "acceptedGrades": [
+        "Fellow (FTSE)",
+        "Fellow (official directory; postnominal omitted)"
+      ],
+      "sourceMode": "official-directory",
+      "coverage": "official-current-directory",
+      "coverageKind": "official-directory-complete",
+      "expectedMinimum": 900,
+      "publicLimitations": "The directory normally exposes the FTSE postnominal. A directory-listed profile with an omitted FTSE postnominal is retained with an explicit source-qualified grade rather than silently dropped.",
+      "sourceUrls": [
+        "https://atse.org.au/who-we-are/our-fellows/all-fellows/"
+      ],
+      "adapter": "atse",
+      "minimumSafeRowCount": 900,
+      "enabled": true,
+      "lastAttemptOn": "2026-09-05T11:19:34.170Z",
+      "lastSuccessOn": "2026-09-05T11:19:34.170Z",
+      "lastStatus": "success",
+      "lastRecordCount": 960,
+      "lastError": null
+    }
+  ]
+}

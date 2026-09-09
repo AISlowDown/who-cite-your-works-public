@@ -1,0 +1,2105 @@
+{
+  "schemaVersion": 1,
+  "verifiedOn": "2026-09-01",
+  "coverage": "论文引用影响力报告中已观察到的论文署名机构；缓存命中时无需重新联网核验",
+  "refreshPolicy": "仅对缓存未收录的新机构做定向核验；只有用户要求或榜单版本更新时整体刷新",
+  "classificationRules": {
+    "mainlandChina": "历史 985/211 与第二轮双一流",
+    "outsideMainlandChina": "QS World University Rankings 2027 top 200"
+  },
+  "sources": {
+    "doubleFirstClass": "https://www.moe.gov.cn/srcsite/A22/s7065/202202/t20220211_598710.html",
+    "historical985211": "https://www.moe.gov.cn/srcsite/A22/s7065/index_1.html",
+    "qs2027": "https://www.topuniversities.com/qs-top-uni-wur"
+  },
+  "stats": {
+    "observedInstitutions": 215,
+    "priorityInstitutions": 76
+  },
+  "institutions": {
+    "Aalborg University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Academy of Mathematics and Systems Science": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "American University of Sharjah": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Anhui Jianzhu University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Aristotle University of Thessaloniki": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Australian Institute of Business": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Autonomous University of Yucatán": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beihang University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beijing Institute of Technology": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beijing Jiaotong University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beijing Normal University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beijing University of Civil Engineering and Architecture": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beijing University of Technology": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Beijing Urban Construction Design & Development Group (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Center for Life Sciences": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Central South University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Centre National de la Recherche Scientifique": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chalmers University of Technology": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=174",
+      "priorityTag": "QS 2027 世界前200（排名 并列 174）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chang'an University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Changzhou City Planning and Design Institute": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Changzhou Institute of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Changzhou University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chaoyang University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chengdu Normal University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chengdu University of Technology": {
+      "classifications": [
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "China General Nuclear Power Corporation (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "China National Petroleum Corporation (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "China Railway Fifth Survey and Design Institute Group": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "China State Construction Engineering (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "China University of Geosciences": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chinese Academy of Sciences": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chongqing Jiaotong University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Chongqing University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "City University of Hong Kong": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=52",
+      "priorityTag": "QS 2027 世界前200（排名 并列 52）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "City University of Macau": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Clemson University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Clermont Université": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Commonwealth Scientific and Industrial Research Organisation": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Daegu Arts University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Dalarna University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Dalian University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Dalian University of Technology": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Daqing Oilfield General Hospital": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Delft University of Technology": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "48",
+      "priorityTag": "QS 2027 世界前200（排名 48）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Donghua University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Dr. B. R. Ambedkar National Institute of Technology Jalandhar": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Duy Tan University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Edinburgh Napier University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Fujian Agriculture and Forestry University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Fuzhou University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Guangdong Ocean University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Guangdong University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Guangzhou University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Guilin University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hamad bin Khalifa University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hangzhou City University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Harbin Institute of Technology": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Harvard University Press": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hebei University of Technology": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Henan Province Water Conservancy Survey and Design Research": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Henan Provincial Institute of Communications Planning Survey & Design (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Heriot-Watt University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hohai University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hong Kong Baptist University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hong Kong Polytechnic University": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "50",
+      "priorityTag": "QS 2027 世界前200（排名 50）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hong Kong University of Science and Technology": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "33",
+      "priorityTag": "QS 2027 世界前200（排名 33）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Huazhong University of Science and Technology": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hubei University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Hunan Normal University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Indian Institute of Technology Delhi": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "118",
+      "priorityTag": "QS 2027 世界前200（排名 118）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Inonu University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Institut de Chimie de Clermont-Ferrand": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Institut de Recherches sur la Catalyse et l'Environnement de Lyon": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Institute of Theoretical and Applied Informatics": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Islamic Azad University, Ahvaz Branch": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Jiangnan University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Jiangsu University of Science and Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Jiangxi University of Finance and Economics": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Jilin Jianzhu University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Jilin University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Jiujiang Vocational University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Johns Hopkins University": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=20",
+      "priorityTag": "QS 2027 世界前200（排名 并列 20）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Key Laboratory of Guangdong Province": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Korea Institute of Civil Engineering and Building Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Lyon 1 Université": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Medical Protective": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Middle East Technical University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Ministry of Industry and Information Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Monash University": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "31",
+      "priorityTag": "QS 2027 世界前200（排名 31）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nanchang University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nanjing Agricultural University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nanjing Forestry University": {
+      "classifications": [
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nanjing Tech University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nanjing University of Information Science and Technology": {
+      "classifications": [
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nankai University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nanyang Technological University": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "12",
+      "priorityTag": "QS 2027 世界前200（排名 12）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "National Center for Chronic and Noncommunicable Disease Control and Prevention": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "National University of Singapore": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "10",
+      "priorityTag": "QS 2027 世界前200（排名 10）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Nazarbayev University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Netaji Subhas University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "New School": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "New York University Abu Dhabi": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "58",
+      "priorityTag": "QS 2027 世界前200（排名 58）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": "按纽约大学母体排名记录"
+    },
+    "Ningbo University": {
+      "classifications": [
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "North China Electric Power University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Northeast Forestry University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Northeast Petroleum University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Northeastern University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Northwestern Polytechnical University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Peking University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Polish Academy of Sciences": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Potsdam Institute for Climate Impact Research": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Purdue University West Lafayette": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=100",
+      "priorityTag": "QS 2027 世界前200（排名 并列 100）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Qingdao University of Science and Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Qingdao University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "RMIT University": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=119",
+      "priorityTag": "QS 2027 世界前200（排名 并列 119）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Reichman University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Research Center for Eco-Environmental Sciences": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "SGIDI Engineering Consulting (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "SINTEF": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "SINTEF Community": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Sejong University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shaanxi Yulin Energy Group": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shahid Beheshti University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shanghai Construction Group (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shanghai Dianji University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shanghai Huayi Group (China)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shanghai Institute of Pollution Control and Ecological Security": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shenyang University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shenzhen Polytechnic University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Shenzhen University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Sichuan Agricultural University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Sichuan University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Sigma Clermont": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "South China University of Technology": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Southeast University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Southern Cross University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "State Key Joint Laboratory of Environment Simulation and Pollution Control": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Swinburne University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Taiwan Centers for Disease Control": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Taiyuan University of Technology": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Technical University of Munich": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "25",
+      "priorityTag": "QS 2027 世界前200（排名 25）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "The NorthCap University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "The University of Adelaide": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "79",
+      "priorityTag": "QS 2027 世界前200（排名 79）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": "QS 2027 使用合并后的 Adelaide University 名称"
+    },
+    "The University of Kitakyushu": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "The University of Melbourne": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=22",
+      "priorityTag": "QS 2027 世界前200（排名 并列 22）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "The University of Queensland": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=40",
+      "priorityTag": "QS 2027 世界前200（排名 并列 40）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Tianjin Agricultural University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Tianjin University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Tianjin University of Commerce": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Tongji University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Tsinghua University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "UNSW Sydney": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "19",
+      "priorityTag": "QS 2027 世界前200（排名 19）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "United Nations University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Universidad de Granada": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Universidade Estadual Paulista (Unesp)": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Universitat de Girona": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Universiti Malaysia Pahang Al-Sultan Abdullah": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Universiti Sains Malaysia": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=128",
+      "priorityTag": "QS 2027 世界前200（排名 并列 128）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Universities UK": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University College London": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=8",
+      "priorityTag": "QS 2027 世界前200（排名 并列 8）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of British Columbia": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=45",
+      "priorityTag": "QS 2027 世界前200（排名 并列 45）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of California System": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of California, Los Angeles": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "49",
+      "priorityTag": "QS 2027 世界前200（排名 49）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of California, Santa Barbara": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "173",
+      "priorityTag": "QS 2027 世界前200（排名 173）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Cambridge": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "6",
+      "priorityTag": "QS 2027 世界前200（排名 6）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Castilla-La Mancha": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Clermont Auvergne": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Exeter": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "136",
+      "priorityTag": "QS 2027 世界前200（排名 136）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Hong Kong": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "11",
+      "priorityTag": "QS 2027 世界前200（排名 11）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Johannesburg": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Kerala": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Liverpool": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "139",
+      "priorityTag": "QS 2027 世界前200（排名 139）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Malaya": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "56",
+      "priorityTag": "QS 2027 世界前200（排名 56）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Maryland, College Park": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Moratuwa": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Münster": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Nottingham Ningbo China": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Otago": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "198",
+      "priorityTag": "QS 2027 世界前200（排名 198）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Ottawa": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Science and Technology Beijing": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Sharjah": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of South Australia": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Southampton": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=111",
+      "priorityTag": "QS 2027 世界前200（排名 并列 111）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Technology Sydney": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=87",
+      "priorityTag": "QS 2027 世界前200（排名 并列 87）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "University of Ulsan": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Université Laval": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Victoria University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Water Research Institute": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Wenzhou University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Western Sydney University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Western University": {
+      "classifications": [],
+      "qsEdition": 2027,
+      "qsRank": "=142",
+      "priorityTag": "QS 2027 世界前200（排名 并列 142）",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "William Carey University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Wuhan Science and Technology Bureau": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Wuhan University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xi'an Jiaotong University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xi'an University of Architecture and Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xi'an University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xiamen University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xidian University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xihua University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xinjiang Uygur Autonomous Region Education Department": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xinyang Normal University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Xi’an Jiaotong-Liverpool University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Yancheng Teachers University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Yangtze University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Yanshan University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Yıldız Technical University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhejiang Province Institute of Architectural Design and Research": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhejiang Sci-Tech University": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhejiang University": {
+      "classifications": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "985 · 211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhejiang University of Technology": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhengzhou University": {
+      "classifications": [
+        "211",
+        "双一流"
+      ],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "211 · 双一流",
+      "priority": true,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhengzhou University of Aeronautics": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    },
+    "Zhongkai University of Agriculture and Engineering": {
+      "classifications": [],
+      "qsEdition": null,
+      "qsRank": null,
+      "priorityTag": "",
+      "priority": false,
+      "verificationStatus": "verified-for-current-observed-snapshot",
+      "note": ""
+    }
+  }
+}

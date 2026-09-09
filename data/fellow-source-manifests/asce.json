@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "organizationId": "asce",
+  "sourceUrl": "https://www.asce.org/-/media/asce-images-and-files/about-asce/official-register/asce-official-register.pdf",
+  "verifiedOn": "2026-09-02",
+  "documentSha256": "d195c4a51d39a7751ea547d899bbf40a92e9b2bc6d5d618895e37ce6d77a0700",
+  "officialRegister": {"fellowCount": 3846, "distinguishedMemberCount": 232, "evidenceType": "aggregate-only"},
+  "coverageNote": "The 2026 Official Register publishes aggregate membership-grade counts, not a complete roster of Fellow names."
+}

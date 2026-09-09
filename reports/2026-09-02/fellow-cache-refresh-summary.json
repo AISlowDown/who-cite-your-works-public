@@ -1,0 +1,193 @@
+{
+  "generatedOn": "2026-09-02T09:28:31.674Z",
+  "cacheVerifiedOn": "2026-09-02",
+  "totalRecords": 3522,
+  "counts": {
+    "total": 3522,
+    "byOrganization": {
+      "aaas": 1,
+      "acs": 1442,
+      "aiche": 1,
+      "asce": 1,
+      "ieee": 1,
+      "iwa": 35,
+      "royal-society": 1921,
+      "rsc": 120
+    },
+    "byGrade": {
+      "aaas:AAAS Fellow": 1,
+      "acs:ACS Fellow": 1442,
+      "aiche:AIChE Fellow": 1,
+      "asce:ASCE Fellow": 1,
+      "ieee:IEEE Fellow": 1,
+      "iwa:IWA Fellow": 28,
+      "iwa:IWA Distinguished Fellow": 7,
+      "royal-society:Fellow": 1645,
+      "royal-society:Foreign Member": 254,
+      "royal-society:Honorary Fellow": 17,
+      "royal-society:Statute 12": 1,
+      "royal-society:Royal Fellow": 4,
+      "rsc:Honorary Fellow (HonFRSC)": 119,
+      "rsc:FRSC": 1
+    }
+  },
+  "organizations": [
+    {
+      "organizationId": "royal-society",
+      "organization": "Royal Society",
+      "sourceMode": "official-directory",
+      "coverage": "official-current-directory",
+      "coverageKind": "official-directory-complete",
+      "publicLimitations": null,
+      "officialUrls": [
+        "https://royalsociety.org/fellows-directory/"
+      ],
+      "recordCount": 1921,
+      "yearsCovered": "未注明",
+      "lastAttemptOn": "2026-09-02T03:20:01.068Z",
+      "lastSuccessOn": "2026-09-02T03:20:01.068Z",
+      "status": "success",
+      "limitation": null,
+      "affiliationCount": 0,
+      "affiliationRate": 0
+    },
+    {
+      "organizationId": "ieee",
+      "organization": "IEEE",
+      "sourceMode": "official-public-directory-or-annual",
+      "coverage": "official-public-directory-or-annual",
+      "coverageKind": "official-public-partial",
+      "publicLimitations": "IEEE directory visibility and access are subject to member privacy and public-access controls",
+      "officialUrls": [
+        "https://www.ieee.org/membership/fellows/fellows-directory.html"
+      ],
+      "recordCount": 1,
+      "yearsCovered": "2025–2025",
+      "lastAttemptOn": "2026-09-02T03:21:01.253Z",
+      "lastSuccessOn": "2026-09-02T03:21:01.253Z",
+      "status": "success",
+      "limitation": "IEEE directory visibility and access are subject to member privacy and public-access controls",
+      "affiliationCount": 1,
+      "affiliationRate": 1
+    },
+    {
+      "organizationId": "aaas",
+      "organization": "American Association for the Advancement of Science",
+      "sourceMode": "official-current-or-annual",
+      "coverage": "official-current-or-annual",
+      "coverageKind": "official-annual-partial",
+      "publicLimitations": "Only official annual or current PDF records actually ingested are covered",
+      "officialUrls": [
+        "https://www.aaas.org/fellows/listing",
+        "https://www.aaas.org/sites/default/files/AAAS-Fellows.pdf"
+      ],
+      "recordCount": 1,
+      "yearsCovered": "2012–2012",
+      "lastAttemptOn": "2026-09-02T03:21:01.254Z",
+      "lastSuccessOn": "2026-09-02T03:21:01.254Z",
+      "status": "success",
+      "limitation": "Only official annual or current PDF records actually ingested are covered",
+      "affiliationCount": 0,
+      "affiliationRate": 0
+    },
+    {
+      "organizationId": "iwa",
+      "organization": "International Water Association",
+      "sourceMode": "official-incremental",
+      "coverage": "official-incremental",
+      "coverageKind": "official-annual-partial",
+      "publicLimitations": "IWA publishes selected current and annual cohorts rather than a historical public directory",
+      "officialUrls": [
+        "https://www.iwa-network.org/iwa-fellows"
+      ],
+      "recordCount": 35,
+      "yearsCovered": "2024–2024",
+      "lastAttemptOn": "2026-09-02T03:21:01.256Z",
+      "lastSuccessOn": "2026-09-02T03:21:01.256Z",
+      "status": "success",
+      "limitation": "IWA publishes selected current and annual cohorts rather than a historical public directory",
+      "affiliationCount": 35,
+      "affiliationRate": 1
+    },
+    {
+      "organizationId": "asce",
+      "organization": "American Society of Civil Engineers",
+      "sourceMode": "official-incremental-or-annual",
+      "coverage": "official-incremental-or-annual",
+      "coverageKind": "official-public-partial",
+      "publicLimitations": "The ASCE Official Register reports aggregate Fellow counts but does not publish a complete name roster",
+      "officialUrls": [
+        "https://www.asce.org/membership/join/fellow",
+        "https://www.asce.org/about-asce/official-register"
+      ],
+      "recordCount": 1,
+      "yearsCovered": "2025–2025",
+      "lastAttemptOn": "2026-09-02T03:21:02.852Z",
+      "lastSuccessOn": "2026-09-02T03:21:02.852Z",
+      "status": "success",
+      "limitation": "The ASCE Official Register reports aggregate Fellow counts but does not publish a complete name roster",
+      "affiliationCount": 0,
+      "affiliationRate": 0
+    },
+    {
+      "organizationId": "aiche",
+      "organization": "American Institute of Chemical Engineers",
+      "sourceMode": "official-historical-and-incremental",
+      "coverage": "official-historical-through-2018-plus-incremental",
+      "coverageKind": "official-historical-plus-annual-partial",
+      "publicLimitations": "The official 2018 historical list is complete as of its date; later coverage depends on public recognition records",
+      "officialUrls": [
+        "https://www.aiche.org/community/sites/fellows",
+        "https://www.aiche.org/sites/default/files/docs/pages/fellows_list_01_09_18.pdf"
+      ],
+      "recordCount": 1,
+      "yearsCovered": "未注明",
+      "lastAttemptOn": "2026-09-02T03:21:04.382Z",
+      "lastSuccessOn": "2026-09-02T03:21:04.382Z",
+      "status": "success",
+      "limitation": "The official 2018 historical list is complete as of its date; later coverage depends on public recognition records",
+      "affiliationCount": 0,
+      "affiliationRate": 0
+    },
+    {
+      "organizationId": "acs",
+      "organization": "American Chemical Society",
+      "sourceMode": "official-annual",
+      "coverage": "official-annual-2009-present",
+      "coverageKind": "official-annual-complete",
+      "publicLimitations": null,
+      "officialUrls": [
+        "https://www.acs.org/funding/awards/acs-fellows/fellows.html",
+        "https://www.acs.org/content/dam/acsorg/funding/fellows/fellows-website/acs-fellows-list.xlsx"
+      ],
+      "recordCount": 1442,
+      "yearsCovered": "2009–2025",
+      "lastAttemptOn": "2026-09-02T03:25:56.905Z",
+      "lastSuccessOn": "2026-09-02T03:25:56.905Z",
+      "status": "success",
+      "limitation": null,
+      "affiliationCount": 1442,
+      "affiliationRate": 1
+    },
+    {
+      "organizationId": "rsc",
+      "organization": "Royal Society of Chemistry",
+      "sourceMode": "official-incremental",
+      "coverage": "official-incremental",
+      "coverageKind": "official-public-partial",
+      "publicLimitations": "RSC does not publish a complete public directory of ordinary FRSC members; the current Honorary Fellow name list is cached separately and its stated total differs from its visible named rows by one",
+      "officialUrls": [
+        "https://www.rsc.org/membership/membership-categories/fellow",
+        "https://www.rsc.org/standards-and-recognition/honorary-fellows"
+      ],
+      "recordCount": 120,
+      "yearsCovered": "1980–2025",
+      "lastAttemptOn": "2026-09-02T09:22:02.407Z",
+      "lastSuccessOn": "2026-09-02T09:22:02.407Z",
+      "status": "success",
+      "limitation": "RSC does not publish a complete public directory of ordinary FRSC members; the current Honorary Fellow name list is cached separately and its stated total differs from its visible named rows by one",
+      "affiliationCount": 1,
+      "affiliationRate": 0.008333333333333333
+    }
+  ]
+}
