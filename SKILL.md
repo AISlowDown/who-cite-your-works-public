@@ -74,6 +74,7 @@ description: 检查研究者论文的引用者、重点作者、论文署名机�
 - 原站可访问失败时，可运行 `node scripts/enrich-chinese-academicians-from-hall-archive.mjs` 从 Common Crawl 公开快照恢复中国工程院院士馆官方 PDF。保留原始官方 URL、档案来源/索引和快照日期；主要经历写入 `careerAffiliations`，无结束年月的任职只写入 `currentAtSourceAffiliations`，不得写入 `currentAffiliations`。
 - 两院本地缓存未命中不能写成“不是院士”。继续检索中科院/工程院最终当选名单、院士馆或两院个人页、作者所在单位官网，并结合引用论文署名机构和研究方向完成消歧；仍无法确认时保留为“未检出可核验证据”，不得给出否定身份结论。
 - 四国工程院名录通过 `node scripts/refresh-international-fellows-cache.mjs --source us-nae --source raeng --source cae-canada --source atse` 增量刷新。美国国家工程院官网中的正式 `Member` 是院士等级，可由该来源单独允许；其他专业学会的普通 `Member` 仍不得进入 Fellow 缓存。
+- 院士、会士、会员的判定与中文翻译必须按“组织全名 + 正式等级 + 官方当选/目录证据”处理，再完成机构身份双确认；不能仅按 Member/Fellow 单词判断。展示前读取 [等级判定与中文译名](references/international-fellows-cache.md#等级判定与中文译名)，保留英文原称、中文译名来源及外籍/荣誉等等级区别。
 - 退休或荣休状态是可选补充信息，不是必须补全字段。官网自然提供 `Emeritus`、`Retired`、荣休或退休表述时可以原样保存，但不主动为每位院士追查退休状态。
 - 不根据年龄、出生年份或当选年份推断退休。已收录的院士/Fellow 不因退休、荣休、`90+` 分组或“资深院士”身份而排除；它们照常参与姓名与机构双确认，确认通过后照常进入 Honor、Excel 和引用影响力报告。
 

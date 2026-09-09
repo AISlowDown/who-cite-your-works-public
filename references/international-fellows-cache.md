@@ -36,6 +36,35 @@
 - 刷新稳定文件时同时生成日期快照；旧快照保留，不覆盖历史证据。
 - 来源出现 403、限流、验证码、零行或异常小结果时保留旧缓存；不得用空结果删除旧记录。
 
+## 等级判定与中文译名
+
+先确定组织英文全名，再核对该组织的正式等级和官方当选公告/目录，最后结合引用论文 affiliation 完成身份双确认。中文翻译不替代荣誉资格证据；工程院名称中出现 Academy 或个人简介写 member，均不足以自动判为院士。
+
+| 组织与原始等级 | 中文展示与边界 |
+| --- | --- |
+| 美国国家工程院 National Academy of Engineering：正式 Member | 美国国家工程院院士；仅限该院官方当选或目录记录，不推广到所有组织的 Member |
+| 加拿大工程院 Canadian Academy of Engineering：正式 Fellow（FCAE） | 加拿大工程院院士；泛称 member of the academy 不足以确定正式等级 |
+| IEEE Member / Senior Member / Fellow | IEEE 会员 / 高级会员 / 会士；前两者不能升级为 Fellow 或院士 |
+| 其他专业学会 Member / Fellow | 普通 Member 为会员；Fellow 保留原称或使用有来源的会士译名，不统一译为院士 |
+| Royal Society Fellow（FRS） | 官方中文机构有“会士”和“院士”不同用法；保留 FRS 并标明采用的译名来源，不宣称其中一种是唯一官方译法 |
+| committee member / board member | 委员会成员 / 理事（具体职务依组织定义）；不能单凭职务授予院士或 Fellow 荣誉 |
+| Research / Postdoctoral / Visiting Fellow | 研究、博士后或访问岗位，不是组织评选的 Fellow 荣誉 |
+
+`Foreign`、`International`、`Honorary`、`Emeritus`、`Distinguished`、`Life` 等修饰词必须保留并按具体组织释义；不统一改成普通 Fellow，不根据姓名、族裔或任职国家推断外籍身份。Royal Society Foreign Member 也不能并入普通 FRS。
+
+### 译名证据记录
+
+在私有证据 JSON 中保留 `organizationOriginal`、`gradeOriginal`、`displayNameZh`、`membershipSourceUrl`、`translationSourceUrl`、`translationSourceType` 和核验日期。`translationSourceType` 区分“组织自身中文来源”与“高校/两院等官方机构中文用法”；后者是官方机构的翻译使用实例，不等于该组织自定的唯一中文名称。尚无可靠中文译名时直接保留英文，不自行造出“院士”称号。
+
+这些是报告证据字段要求，不表示现有缓存已全部补齐。原始缓存等级不得因显示翻译而覆盖或改写；Excel 的 Honor 仅展示已确认的称号，多项用 ` • ` 分隔，译名来源和内部字段留在 JSON。
+
+### 已核对的官方来源入口
+
+- [IEEE 中国：会员等级](https://cn.ieee.org/member_grade/)：组织自身中文来源，区分高级会员与会士。
+- [美国国家科学院体系：成员](https://www.nationalacademies.org/members)：核对正式成员制度；[中国工程院官方报道](https://en.cae.cn/cae/html/main/col296/2023-07/24/20230724190725867466548_1.html)提供“美国国家工程院院士”中文用法。
+- [加拿大工程院：Fellowship 类别](https://cae-acg.ca/fellows/fellowship-procedure-categories-of-fellowship/)：核对正式 Fellow 类别；[香港工程科学院双语资料](https://ibas.hkae.hk/2023/pdf/HKMA-AES_Booklet_Final_Digital-Full.pdf)提供 Fellow 与“加拿大工程院院士”的对应用法。
+- Royal Society 的中文用法分别见[中国科学院“会士”表述](https://www.cas.cn/yw/202601/t20260114_5096154.shtml)、[香港理工大学院士页面](https://www.polyu.edu.hk/academicians/?sc_lang=sc)及[中国科学院“外籍会员”表述](https://casad.cas.cn/ysdt2022/202303/t20230307_4878095.html)。这些是中文机构用法，不冒充 Royal Society 自身唯一官方译名。
+
 ## 2026-09-02 快照
 
 - 总记录：3,522。
