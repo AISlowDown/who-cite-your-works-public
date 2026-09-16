@@ -1,4 +1,16 @@
-# Who Cite Your Works
+# 哪个大佬引用了我的论文
+
+**Who Cite Your Works** · 一个基于证据的 Codex 学术引用检索 skill。
+
+![哪个大佬引用了我的论文](assets/promo-who-cite-your-works-zh.png)
+
+按需筛选引用学者与机构，核对引用原文，整理作者索引、本人论文索引和中文引用影响力报告；还可由用户选择专家，制作可编辑的同行引用 PPT。
+
+- 可配置第一/通讯作者或全部作者、被引次数门槛、985/211/双一流及 QS 前 200 等机构范围。
+- 保留引用原文及中文解释，区分背景引用、方法采用与明确评价，不将普通引用当作赞誉。
+- PPT 提供候选专家与对应被引论文，支持单页双栏对齐和空白评价行。详见 [PPT 输出规则](references/ppt-peer-evaluation.md)。
+
+仍在改进中，来源覆盖及全文访问可能受限，结果需要核验。宣传图为 AI 生成插画，不含真实研究者资料。
 
 An evidence-grounded Codex skill for monitoring citations to a researcher's papers, identifying influential citing authors and institutions, and explaining citation context when source evidence is available.
 
