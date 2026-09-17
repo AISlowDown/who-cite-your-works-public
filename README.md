@@ -12,6 +12,12 @@
 
 仍在改进中，来源覆盖及全文访问可能受限，结果需要核验。宣传图为 AI 生成插画，不含真实研究者资料。
 
+## 欢迎建议与反馈
+
+如果你有功能建议、发现漏检或身份匹配问题，或者希望改进报告与 PPT 的展示方式，欢迎在 [GitHub Issues](https://github.com/AISlowDown/who-cite-your-works-public/issues) 提出，一起把这个项目打磨得更好用。
+
+反馈时可附上公开论文链接、预期结果和遇到的问题；请勿提交私人联系方式、未公开论文或其他敏感资料。
+
 An evidence-grounded Codex skill for monitoring citations to a researcher's papers, identifying influential citing authors and institutions, and explaining citation context when source evidence is available.
 
 Status: initial skill entrypoint and versioned institution-priority cache implemented; citation acquisition code remains under development.
